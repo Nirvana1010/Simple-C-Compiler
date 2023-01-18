@@ -8,7 +8,9 @@
 
 ## Overview
 
-This is a simple C compiler using Lex & Yacc, which is the course project of Principles of Compilers. The compiler handles following constructs:
+This is a simple C compiler using Lex & Yacc, which is the course project of Principles of Compilers. 
+
+The compiler handles following constructs:
 
 - Data type: int, char
 - Statements: assignment (=), if, while, for
